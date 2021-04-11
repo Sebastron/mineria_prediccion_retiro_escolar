@@ -22,7 +22,7 @@ _Python "Proyecto_prediccion_retirados_oficial.ipynb"._
 ## Lenguaje y Herramientas utilizadas 🛠️
 
 * [Python 3.X.X](https://www.python.org/) - Lenguaje de programación
-* [Google Colaboratory](
+* [Google Colaboratory (Colab)](https://colab.research.google.com/) - Entorno de desarrollo y ejecución
 * [Microsoft Excel 365](https://www.office.com/) - Hoja de cálculo desarrollada por Microsoft.
 * [Google Sheets](https://www.google.com/intl/es-419_cl/sheets/about/) - Hoja de cálculo colaborativo desarrollada por Google.
 
