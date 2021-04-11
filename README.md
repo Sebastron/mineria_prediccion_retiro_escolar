@@ -12,7 +12,7 @@ _experiencia, y también para cumplir la obligación de desarrollarla_
 _en la asignatura "Minería de datos", desde la_ [Universidad Tecnológica
 Metropolitana](https://www.utem.cl/)_, para ser evaluado por profesor_
 _Claudio Collao Bahamondes. Se construyeron dos datasets en CSV a partir de_
-_los datos del Ministerio de Educación y del Gobierno (Vease en la_
+_los datos del Ministerio de Educación y del Gobierno de Chile (Vease en la_
 _referencia del informe en PDF), donde uno es construido originalmente,_
 _"datasetoficial.csv", y otro es el mismo dataset anterior pero con los_
 _outliers ya tratados, "datasetoutliersoficial.csv"._
