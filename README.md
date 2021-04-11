@@ -16,7 +16,7 @@ _los datos del Ministerio de Educación y del Gobierno de Chile (Vease en la_
 _referencia del informe en PDF), donde uno es construido originalmente,_
 _"datasetoficial.csv", y otro es el mismo dataset anterior pero con los_
 _outliers ya tratados, "datasetoutliersoficial.csv"._
-_Todos los detalles se especifica en el informe y codigo de Notebook_
+_Todos los detalles se especifican en el informe y codigo de Notebook_
 _Python "Proyecto_prediccion_retirados_oficial.ipynb"._
 
 ## Lenguaje y Herramientas utilizadas 🛠️
