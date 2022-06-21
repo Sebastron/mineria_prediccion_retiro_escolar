@@ -6,7 +6,7 @@
 
 _El proyecto de minería de datos consiste en la construcción de modelos_
 _con capacidad de predecir la cantidad de alumnos que se retiran en_
-_ las comunas (en su mayoría) de la región metropolitana de Chile._
+_las comunas (en su mayoría) de la región metropolitana de Chile._
 _Este proyecto tiene un fin de adquirir nuevos aprendizajes y_
 _experiencia, y también para cumplir la obligación de desarrollarla_
 _en la asignatura "Minería de datos", desde la_ [Universidad Tecnológica
